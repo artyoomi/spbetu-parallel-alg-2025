@@ -1,4 +1,5 @@
 ## Description
-This repository contains laboratory works from "Parallel algorithms" subject
-in Saint-Petersburg Electrotechnical University "LETI" at 5th semster Applied
-mathematics and informatics in 2025. All labs theme is OpenMPI.
+
+Laboratory work on parallel algorithms at St. Petersburg Electrotechnical
+University at Applied Mathematics and Computer Science program in the 5th
+semester in 2025.
